@@ -1,0 +1,19 @@
+<?php
+$MESS['SMARTDATE_OPTIONS_TAB_SETTINGS'] = 'Настройки';
+$MESS['SMARTDATE_OPTIONS_TAB_SETTINGS_TITLE'] = 'Настройки отображения дат';
+
+$MESS['SMARTDATE_OPTIONS_DATE_FORMAT'] = 'Формат отображения даты';
+$MESS['SMARTDATE_OPTIONS_FORMAT_RELATIVE'] = 'Относительный (22 секунды назад)';
+$MESS['SMARTDATE_OPTIONS_FORMAT_DATETIME'] = 'Абсолютный (дд.мм.гггг чч:мм)';
+
+$MESS['SMARTDATE_OPTIONS_MODULES_TITLE'] = 'Модули для применения';
+$MESS['SMARTDATE_OPTIONS_TASKS_ENABLED'] = 'Применять в Задачах';
+$MESS['SMARTDATE_OPTIONS_CRM_ENABLED'] = 'Применять в CRM';
+
+$MESS['SMARTDATE_OPTIONS_CRM_ENTITY'] = 'Сущность CRM';
+$MESS['SMARTDATE_OPTIONS_CRM_ENTITY_LEAD'] = 'Лиды';
+$MESS['SMARTDATE_OPTIONS_CRM_ENTITY_DEAL'] = 'Сделки';
+$MESS['SMARTDATE_OPTIONS_CRM_ENTITY_CONTACT'] = 'Контакты';
+$MESS['SMARTDATE_OPTIONS_CRM_ENTITY_COMPANY'] = 'Компании';
+
+$MESS['SMARTDATE_OPTIONS_SAVE'] = 'Сохранить';
